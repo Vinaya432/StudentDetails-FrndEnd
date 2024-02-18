@@ -1,0 +1,1 @@
+export const SERVER_URL="https://student-server-f3bn.onrender.com"
